@@ -18,3 +18,8 @@
 1. Webserver
 2. R/W json to file
 3. oAuth
+
+## Meta learning goals
+
+- Test-driven with integration tests -> to test
+- Error handling in Go -> principles and patterns?
